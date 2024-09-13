@@ -1,0 +1,14 @@
+.callout[data-callout="definition"] {
+    --callout-color: 200, 200, 200;
+    --callout-icon: lucide-book-marked;
+}
+
+.callout[data-callout="problem"] {
+    --callout-color: 200, 200, 200;
+    --callout-icon: lucide-clipboard-list;
+}
+
+.callout[data-callout="theorem"] {
+    --callout-color: 200, 200, 200;
+    --callout-icon: lucide-lightbulb;
+}

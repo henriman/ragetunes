@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5db318cf78ace4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fdc6bcd8994604a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d9c42dfc8ca232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approximations- und Online-Algorithmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e4b0f8ed1ede515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paging problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5208acbdadf247",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2bd3af9bd4f9ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d1a6b66ff083a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c57bd744b398f14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "online",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbb96f5f44c45c38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a07aaa41f02c49a2",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "967fb64689ddce39",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d67ec5e152622b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993999d32791e187",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paging problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d8203b85a74c97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paging problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d104098ed3c4af14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51306b9c53c4d7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paging problem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8e4b0f8ed1ede515",
+  "lastOpenFiles": [
+    "Approximations- und Online-Algorithmen.md",
+    "Online problems.md",
+    "Online algorithms.md",
+    "Vertex cover.md",
+    "Unique games conjecture (UGC).md",
+    "Complexity class APX.md",
+    "Maximum satisfiability problem (MAX-SAT).md",
+    "Gap-preserving (GP-) reductions.md",
+    "Knapsack problem.md",
+    "Probabilistic proof checking (PCP).md",
+    "Attachments/Pasted image 20240804133009.png",
+    "Attachments/Pasted image 20240804131408.png",
+    "Inapproximability.md",
+    "Travelling salesman problem (TSP).md",
+    "Approximation problems.md",
+    "Approximation algorithms.md",
+    "Optimization problems.md",
+    "Pseudo-polynomial time and -algorithms.md",
+    "NP-hardness and -completeness.md",
+    "Semidefinite programming (SDP).md",
+    "Cuts.md",
+    "(Fully-) polynomial-time approximation schemes ((F-)PTAS).md",
+    "Attachments/The Design of Approximation Algorithms (D. Williamson, D. Shmoys).pdf",
+    "Attachments/Pasted image 20240801184156.png",
+    "Set cover.md",
+    "Attachments/Algorithm Design for Hard Problems (J. Hromkovic, H.-J. Böckenhauer, D. Komm).pdf",
+    "Bachelor thesis topic.md",
+    "Hash functions.md",
+    "Block ciphers.md",
+    "Message authentication codes (MACs).md",
+    "Attachments/ccs2024b-paper1302(1).pdf",
+    "Stream ciphers.md",
+    "Attachments/infosec-lecture07-08.pdf",
+    "Attachments/infosec-lecture03-04.pdf",
+    "Attachments/Pasted image 20240628194552.png",
+    "Attachments/Pasted image 20240628194546.png",
+    "Attachments/infosec-lecture05-06.pdf",
+    "Attachments/infosec-lecture01-02.pdf",
+    "Algorithms with Predictions Presentation.canvas",
+    "Attachments/Pasted image 20240511170643.png",
+    "RSE Project.canvas",
+    "Attachments/Pasted image 20240424184959.png",
+    "~syncthing~Inapproximability.md.tmp",
+    "Attachments/Pasted image 20240416181345.png",
+    "~syncthing~Unicity distance.md.tmp",
+    "~syncthing~NP-hardness and -completeness.md.tmp",
+    "Attachments/Pasted image 20240411193750.png",
+    "Attachments/Pasted image 20240408190240.png"
+  ]
+}

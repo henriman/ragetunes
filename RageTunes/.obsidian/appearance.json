@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "callouts",
+    "smallcaps",
+    "single-page-pdf-embed",
+    "image-alignment"
+  ]
+}
